@@ -1,2 +1,4 @@
 pure javascript - double slider
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+![Alt Text](https://media.giphy.com/media/8UHQYMO7BiHDNdGnhJ/giphy.gif)
