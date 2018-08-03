@@ -1,8 +1,8 @@
 # Double-Slider
 Double-Slider ( pure javascript )
 
-js file :
- var minAmount = 200;   // you can change it -> it's minimum number
+    // js file
+    var minAmount = 200;   // you can change it -> it's minimum number
     var maxAmount = 400;  // you can change it -> it's maximum number
     var dragging = false;
     var minSignOffset = 0;
