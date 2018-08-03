@@ -1,4 +1,6 @@
 pure javascript - double slider
+
+
 you can change minimum and maximum number
 
 
